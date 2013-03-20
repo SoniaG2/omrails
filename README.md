@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
@@ -259,3 +260,10 @@ vendor
   External libraries that the application depends on. Also includes the plugins
   subdirectory. If the app has frozen rails, those gems also go here, under
   vendor/rails/. This directory is in the load path.
+=======
+#One Month Rails
+This is the sampel appliation for 
+[*One Month Rails: Teach Yourself to Code](http://onemonthrails.com)
+
+by [Mattan Griffel](http://mattangriffel.com)
+>>>>>>> 2d580f25504034caf8f1a642cfc5da269b3cbe35
